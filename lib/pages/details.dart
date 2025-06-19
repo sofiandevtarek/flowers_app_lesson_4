@@ -121,6 +121,7 @@ class _DetailsState extends State<Details> {
                 text: lines == true ? "Show less" : "Show more",
                 color: Colors.blue,
                 fontSize: 20,
+                fontWeight: FontWeight.bold,
               ),
             ),
           ],
